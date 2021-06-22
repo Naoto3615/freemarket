@@ -1,6 +1,3 @@
-## ER図
-[![Image from Gyazo](https://i.gyazo.com/907ad06f26dca32fbcd159a8c7c32bcf.png)](https://gyazo.com/907ad06f26dca32fbcd159a8c7c32bcf)
-# freemarket_sample_74b
 フリマアプリのクローンサイト。
 
 購入用アカウント: sell@gmail.com
